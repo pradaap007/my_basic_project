@@ -1,0 +1,19 @@
+[0.504s] Invoking command in '/home/praveen/udmey/build/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data --force
+[0.720s] running develop
+[0.846s] running egg_info
+[0.847s] writing activity.egg-info/PKG-INFO
+[0.847s] writing dependency_links to activity.egg-info/dependency_links.txt
+[0.847s] writing entry points to activity.egg-info/entry_points.txt
+[0.847s] writing requirements to activity.egg-info/requires.txt
+[0.847s] writing top-level names to activity.egg-info/top_level.txt
+[0.849s] reading manifest file 'activity.egg-info/SOURCES.txt'
+[0.850s] writing manifest file 'activity.egg-info/SOURCES.txt'
+[0.851s] running build_ext
+[0.851s] Creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+[0.852s] Installing act1_pub script to /home/praveen/udmey/install/activity/lib/activity
+[0.852s] 
+[0.852s] Installed /home/praveen/udmey/build/activity
+[0.852s] running symlink_data
+[0.852s] symbolically linking /home/praveen/udmey/build/activity/resource/activity -> /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages
+[0.852s] symbolically linking /home/praveen/udmey/build/activity/package.xml -> /home/praveen/udmey/install/activity/share/activity
+[0.888s] Invoked command in '/home/praveen/udmey/build/activity' returned '0': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data --force

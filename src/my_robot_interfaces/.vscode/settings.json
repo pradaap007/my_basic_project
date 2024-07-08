@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/praveen/udmey/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/praveen/udmey/build/activity",
+        "/home/praveen/udmey/install/activity/lib/python3.10/site-packages",
+        "/home/praveen/manik/install/manikrobotic/lib/python3.10/site-packages",
+        "/home/praveen/ros2_ws/build/hello",
+        "/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/activity/activity.egg-info
+writing ../../build/activity/activity.egg-info/PKG-INFO
+writing dependency_links to ../../build/activity/activity.egg-info/dependency_links.txt
+writing entry points to ../../build/activity/activity.egg-info/entry_points.txt
+writing requirements to ../../build/activity/activity.egg-info/requires.txt
+writing top-level names to ../../build/activity/activity.egg-info/top_level.txt
+writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+reading manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/praveen/udmey/build/activity/build
+creating /home/praveen/udmey/build/activity/build/lib
+creating /home/praveen/udmey/build/activity/build/lib/activity
+copying activity/__init__.py -> /home/praveen/udmey/build/activity/build/lib/activity
+running install
+running install_lib
+creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity
+copying /home/praveen/udmey/build/activity/build/lib/activity/__init__.py -> /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity
+byte-compiling /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/praveen/udmey/install/activity/share/ament_index
+creating /home/praveen/udmey/install/activity/share/ament_index/resource_index
+creating /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages
+copying resource/activity -> /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages
+copying package.xml -> /home/praveen/udmey/install/activity/share/activity
+running install_egg_info
+Copying ../../build/activity/activity.egg-info to /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/praveen/udmey/build/activity/install.log'

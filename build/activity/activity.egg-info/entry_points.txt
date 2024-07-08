@@ -1,0 +1,9 @@
+[console_scripts]
+act1_pub = activity.aty1_num_pub:main
+act1_service = activity.activity1_service:main
+act1_sub = activity.aty1_num_sub:main
+add_2_ser = activity.add_two_int_service:main
+add_two_clt_nooop = activity.add_two_int_client_no_oop:main
+add_two_cltoop = activity.add_two_int_client:main
+hw_sts = activity.hardwarestatus:main
+

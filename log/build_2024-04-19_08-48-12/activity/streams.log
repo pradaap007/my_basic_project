@@ -1,0 +1,33 @@
+[0.513s] Invoking command in '/home/praveen/udmey/src/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/activity build --build-base /home/praveen/udmey/build/activity/build install --record /home/praveen/udmey/build/activity/install.log --single-version-externally-managed install_data
+[0.703s] running egg_info
+[0.703s] creating ../../build/activity/activity.egg-info
+[0.703s] writing ../../build/activity/activity.egg-info/PKG-INFO
+[0.703s] writing dependency_links to ../../build/activity/activity.egg-info/dependency_links.txt
+[0.703s] writing entry points to ../../build/activity/activity.egg-info/entry_points.txt
+[0.703s] writing requirements to ../../build/activity/activity.egg-info/requires.txt
+[0.704s] writing top-level names to ../../build/activity/activity.egg-info/top_level.txt
+[0.704s] writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+[0.705s] reading manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'
+[0.706s] running build
+[0.706s] running build_py
+[0.706s] creating /home/praveen/udmey/build/activity/build
+[0.706s] creating /home/praveen/udmey/build/activity/build/lib
+[0.706s] creating /home/praveen/udmey/build/activity/build/lib/activity
+[0.706s] copying activity/__init__.py -> /home/praveen/udmey/build/activity/build/lib/activity
+[0.706s] running install
+[0.706s] running install_lib
+[0.707s] creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity
+[0.707s] copying /home/praveen/udmey/build/activity/build/lib/activity/__init__.py -> /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity
+[0.707s] byte-compiling /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity/__init__.py to __init__.cpython-310.pyc
+[0.707s] running install_data
+[0.707s] creating /home/praveen/udmey/install/activity/share/ament_index
+[0.708s] creating /home/praveen/udmey/install/activity/share/ament_index/resource_index
+[0.708s] creating /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages
+[0.708s] copying resource/activity -> /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages
+[0.708s] copying package.xml -> /home/praveen/udmey/install/activity/share/activity
+[0.708s] running install_egg_info
+[0.709s] Copying ../../build/activity/activity.egg-info to /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity-0.0.0-py3.10.egg-info
+[0.710s] running install_scripts
+[0.725s] writing list of installed files to '/home/praveen/udmey/build/activity/install.log'
+[0.757s] Invoked command in '/home/praveen/udmey/src/activity' returned '0': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/activity build --build-base /home/praveen/udmey/build/activity/build install --record /home/praveen/udmey/build/activity/install.log --single-version-externally-managed install_data

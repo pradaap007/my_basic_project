@@ -1,0 +1,18 @@
+[0.485s] Invoking command in '/home/praveen/udmey/build/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data
+[0.689s] running develop
+[0.815s] running egg_info
+[0.816s] writing activity.egg-info/PKG-INFO
+[0.816s] writing dependency_links to activity.egg-info/dependency_links.txt
+[0.816s] writing entry points to activity.egg-info/entry_points.txt
+[0.816s] writing requirements to activity.egg-info/requires.txt
+[0.816s] writing top-level names to activity.egg-info/top_level.txt
+[0.817s] reading manifest file 'activity.egg-info/SOURCES.txt'
+[0.824s] writing manifest file 'activity.egg-info/SOURCES.txt'
+[0.825s] running build_ext
+[0.826s] Creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+[0.826s] Installing act1_pub script to /home/praveen/udmey/install/activity/lib/activity
+[0.826s] Installing act1_sub script to /home/praveen/udmey/install/activity/lib/activity
+[0.826s] 
+[0.826s] Installed /home/praveen/udmey/build/activity
+[0.827s] running symlink_data
+[0.847s] Invoked command in '/home/praveen/udmey/build/activity' returned '0': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data

@@ -1,0 +1,22 @@
+[0.610s] Invoking command in '/home/praveen/udmey/build/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data
+[0.864s] running develop
+[1.020s] running egg_info
+[1.020s] writing activity.egg-info/PKG-INFO
+[1.020s] writing dependency_links to activity.egg-info/dependency_links.txt
+[1.020s] writing entry points to activity.egg-info/entry_points.txt
+[1.020s] writing requirements to activity.egg-info/requires.txt
+[1.020s] writing top-level names to activity.egg-info/top_level.txt
+[1.022s] reading manifest file 'activity.egg-info/SOURCES.txt'
+[1.029s] writing manifest file 'activity.egg-info/SOURCES.txt'
+[1.030s] running build_ext
+[1.031s] Creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+[1.031s] Installing act1_pub script to /home/praveen/udmey/install/activity/lib/activity
+[1.031s] Installing act1_service script to /home/praveen/udmey/install/activity/lib/activity
+[1.032s] Installing act1_sub script to /home/praveen/udmey/install/activity/lib/activity
+[1.032s] Installing add_2_ser script to /home/praveen/udmey/install/activity/lib/activity
+[1.032s] Installing add_two_clt_nooop script to /home/praveen/udmey/install/activity/lib/activity
+[1.032s] Installing add_two_cltoop script to /home/praveen/udmey/install/activity/lib/activity
+[1.032s] 
+[1.032s] Installed /home/praveen/udmey/build/activity
+[1.032s] running symlink_data
+[1.057s] Invoked command in '/home/praveen/udmey/build/activity' returned '0': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data

@@ -1,0 +1,21 @@
+[0.458s] Invoking command in '/home/praveen/udmey/build/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data
+[0.661s] running develop
+[0.781s] running egg_info
+[0.781s] writing activity.egg-info/PKG-INFO
+[0.781s] writing dependency_links to activity.egg-info/dependency_links.txt
+[0.781s] writing entry points to activity.egg-info/entry_points.txt
+[0.781s] writing requirements to activity.egg-info/requires.txt
+[0.781s] writing top-level names to activity.egg-info/top_level.txt
+[0.782s] reading manifest file 'activity.egg-info/SOURCES.txt'
+[0.783s] writing manifest file 'activity.egg-info/SOURCES.txt'
+[0.784s] running build_ext
+[0.784s] Creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+[0.785s] Installing act1_pub script to /home/praveen/udmey/install/activity/lib/activity
+[0.785s] Installing act1_sub script to /home/praveen/udmey/install/activity/lib/activity
+[0.785s] Installing add_2_ser script to /home/praveen/udmey/install/activity/lib/activity
+[0.785s] Installing add_two_clt_nooop script to /home/praveen/udmey/install/activity/lib/activity
+[0.785s] Installing add_two_cltoop script to /home/praveen/udmey/install/activity/lib/activity
+[0.785s] 
+[0.785s] Installed /home/praveen/udmey/build/activity
+[0.785s] running symlink_data
+[0.808s] Invoked command in '/home/praveen/udmey/build/activity' returned '0': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/udmey/build/activity/build --no-deps symlink_data

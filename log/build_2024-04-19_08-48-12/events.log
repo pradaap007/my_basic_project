@@ -1,0 +1,45 @@
+[0.000000] (-) TimerEvent: {}
+[0.000647] (activity) JobQueued: {'identifier': 'activity', 'dependencies': OrderedDict()}
+[0.000684] (activity) JobStarted: {'identifier': 'activity'}
+[0.099835] (-) TimerEvent: {}
+[0.200159] (-) TimerEvent: {}
+[0.300473] (-) TimerEvent: {}
+[0.400779] (-) TimerEvent: {}
+[0.501094] (-) TimerEvent: {}
+[0.512832] (activity) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/activity', 'build', '--build-base', '/home/praveen/udmey/build/activity/build', 'install', '--record', '/home/praveen/udmey/build/activity/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/praveen/udmey/src/activity', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en.UTF-8', 'USER': 'praveen', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/praveen', 'OLDPWD': '/home/praveen/udmey/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '1536', 'SYSTEMD_EXEC_PID': '2129', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '3869', 'COLCON_PREFIX_PATH': '/home/praveen/udmey/install:/home/praveen/manik/install:/home/praveen/my/install:/home/praveen/ros2_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'praveen', 'JOURNAL_STREAM': '8:36167', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'praveen', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/praveen-Laptop:@/tmp/.ICE-unix/1856,unix/praveen-Laptop:/tmp/.ICE-unix/1856', 'INVOCATION_ID': 'af8f3a37c6db49f5b603954a64bef2e6', 'XDG_MENU_PREFIX': 'gnome-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'IBUS_DISABLE_SNOOPER': '1', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/praveen/manik/install/manikrobotic:/home/praveen/ros2_ws/install/hello:/home/praveen/my/install/test_pkg:/opt/ros/humble', 'SHELL': '/bin/bash', 'TERMINATOR_UUID': 'urn:uuid:269f17ff-8874-4d99-a681-07f24caa62d9', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/praveen/udmey/build/activity', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/praveen/udmey/build/activity/prefix_override:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:/home/praveen/manik/install/manikrobotic/lib/python3.10/site-packages:/home/praveen/ros2_ws/build/hello:/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages:/home/praveen/my/build/test_pkg:/home/praveen/my/install/test_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[0.601215] (-) TimerEvent: {}
+[0.701539] (-) TimerEvent: {}
+[0.703245] (activity) StdoutLine: {'line': b'running egg_info\n'}
+[0.703486] (activity) StdoutLine: {'line': b'creating ../../build/activity/activity.egg-info\n'}
+[0.703678] (activity) StdoutLine: {'line': b'writing ../../build/activity/activity.egg-info/PKG-INFO\n'}
+[0.703889] (activity) StdoutLine: {'line': b'writing dependency_links to ../../build/activity/activity.egg-info/dependency_links.txt\n'}
+[0.704027] (activity) StdoutLine: {'line': b'writing entry points to ../../build/activity/activity.egg-info/entry_points.txt\n'}
+[0.704124] (activity) StdoutLine: {'line': b'writing requirements to ../../build/activity/activity.egg-info/requires.txt\n'}
+[0.704180] (activity) StdoutLine: {'line': b'writing top-level names to ../../build/activity/activity.egg-info/top_level.txt\n'}
+[0.704244] (activity) StdoutLine: {'line': b"writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'\n"}
+[0.705577] (activity) StdoutLine: {'line': b"reading manifest file '../../build/activity/activity.egg-info/SOURCES.txt'\n"}
+[0.706050] (activity) StdoutLine: {'line': b"writing manifest file '../../build/activity/activity.egg-info/SOURCES.txt'\n"}
+[0.706211] (activity) StdoutLine: {'line': b'running build\n'}
+[0.706287] (activity) StdoutLine: {'line': b'running build_py\n'}
+[0.706371] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/build/activity/build\n'}
+[0.706467] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/build/activity/build/lib\n'}
+[0.706542] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/build/activity/build/lib/activity\n'}
+[0.706601] (activity) StdoutLine: {'line': b'copying activity/__init__.py -> /home/praveen/udmey/build/activity/build/lib/activity\n'}
+[0.706674] (activity) StdoutLine: {'line': b'running install\n'}
+[0.706810] (activity) StdoutLine: {'line': b'running install_lib\n'}
+[0.707250] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity\n'}
+[0.707364] (activity) StdoutLine: {'line': b'copying /home/praveen/udmey/build/activity/build/lib/activity/__init__.py -> /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity\n'}
+[0.707800] (activity) StdoutLine: {'line': b'byte-compiling /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity/__init__.py to __init__.cpython-310.pyc\n'}
+[0.708026] (activity) StdoutLine: {'line': b'running install_data\n'}
+[0.708139] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/install/activity/share/ament_index\n'}
+[0.708203] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/install/activity/share/ament_index/resource_index\n'}
+[0.708284] (activity) StdoutLine: {'line': b'creating /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages\n'}
+[0.708350] (activity) StdoutLine: {'line': b'copying resource/activity -> /home/praveen/udmey/install/activity/share/ament_index/resource_index/packages\n'}
+[0.708422] (activity) StdoutLine: {'line': b'copying package.xml -> /home/praveen/udmey/install/activity/share/activity\n'}
+[0.708473] (activity) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.709703] (activity) StdoutLine: {'line': b'Copying ../../build/activity/activity.egg-info to /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity-0.0.0-py3.10.egg-info\n'}
+[0.710499] (activity) StdoutLine: {'line': b'running install_scripts\n'}
+[0.725783] (activity) StdoutLine: {'line': b"writing list of installed files to '/home/praveen/udmey/build/activity/install.log'\n"}
+[0.757254] (activity) CommandEnded: {'returncode': 0}
+[0.767960] (activity) JobEnded: {'identifier': 'activity', 'rc': 0}
+[0.768450] (-) EventReactorShutdown: {}

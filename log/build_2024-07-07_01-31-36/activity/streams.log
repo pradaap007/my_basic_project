@@ -1,0 +1,3 @@
+[0.550s] Invoking command in '/home/praveen/udmey/build/activity': PYTHONPATH=/home/praveen/udmey/build/activity/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/udmey/install/activity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/praveen/udmey/build/activity/build
+[0.759s] running develop
+[0.883s] Removing /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)

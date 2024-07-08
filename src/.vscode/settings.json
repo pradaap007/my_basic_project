@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/praveen/udmey/build/activity",
+        "/home/praveen/udmey/install/activity/lib/python3.10/site-packages",
+        "/home/praveen/manik/install/manikrobotic/lib/python3.10/site-packages",
+        "/home/praveen/ros2_ws/build/hello",
+        "/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages",
+        "/home/praveen/my/build/test_pkg",
+        "/home/praveen/my/install/test_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/praveen/udmey/build/activity",
+        "/home/praveen/udmey/install/activity/lib/python3.10/site-packages",
+        "/home/praveen/manik/install/manikrobotic/lib/python3.10/site-packages",
+        "/home/praveen/ros2_ws/build/hello",
+        "/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages",
+        "/home/praveen/my/build/test_pkg",
+        "/home/praveen/my/install/test_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

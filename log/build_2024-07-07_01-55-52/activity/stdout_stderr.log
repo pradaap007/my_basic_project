@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing activity.egg-info/PKG-INFO
+writing dependency_links to activity.egg-info/dependency_links.txt
+writing entry points to activity.egg-info/entry_points.txt
+writing requirements to activity.egg-info/requires.txt
+writing top-level names to activity.egg-info/top_level.txt
+reading manifest file 'activity.egg-info/SOURCES.txt'
+writing manifest file 'activity.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/praveen/udmey/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+Installing act1_pub script to /home/praveen/udmey/install/activity/lib/activity
+Installing act1_service script to /home/praveen/udmey/install/activity/lib/activity
+Installing act1_sub script to /home/praveen/udmey/install/activity/lib/activity
+Installing add_2_ser script to /home/praveen/udmey/install/activity/lib/activity
+Installing add_two_clt_nooop script to /home/praveen/udmey/install/activity/lib/activity
+Installing add_two_cltoop script to /home/praveen/udmey/install/activity/lib/activity
+
+Installed /home/praveen/udmey/build/activity
+running symlink_data
